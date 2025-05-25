@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(59, 51, 37);
+}
+#backbutton{
+    height: 30px;
+    width: 30px;
+}
+.header{
+    background-color: rgb(190, 139, 95);
+    padding: 0px;
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: cursive;
+}
+.header img{
+    height: 70px;
+    width: 70px;}
+.header{
+    background-color: rgb(190, 139, 95);
+    padding: 0px;
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: cursive;
+}
+.header img{
+    height: 70px;
+    width: 70px;
+}
+.container{
+    background-color: burlywood;
+    padding: 3%;
+}
+.container figcaption{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: 800;
+}
+.container button{
+    width: 500px;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: 800;
+    margin-top: 3px;
+}
+.line1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}
+#dodoyins{
+    width: 500px;
+    height: 500px;
+}
+#kagan{
+    width: 500px;
+    height: 500px;
+    
+}

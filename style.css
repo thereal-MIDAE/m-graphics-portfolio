@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(59, 51, 37);
+}
+.header{
+    text-align: center;
+}
+#logo{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+#heading{
+    color: #e2cfab;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    
+}
+#work{
+    color: rgb(214, 213, 213);
+    font-size: 35px;
+    font-style: italic;
+    background-color: rgb(85, 46, 19);
+    border-top: rgb(219, 219, 219) solid 10px;
+    border-bottom: rgb(219, 219, 219) solid 10px;
+}
+.intro{
+    background-color: rgb(209, 186, 144);
+    margin-top: 70px;
+    border: black solid 3px;
+    padding: 10px; 
+    
+}
+#welcome{
+    margin-left: 5%;
+    font-size: 22px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-decoration: dotted underline 3px
+}
+.introduction{
+    font-size: 20px;
+    margin-left: 2%;
+    font-weight: 600;
+    font-family: 'franklin gothic';
+    text-decoration: overline;
+    text-align: justify;
+}
+#whatsapp{
+    width: 80px;
+    height: 60px;
+    border: black solid 2px;
+}
+.social-links{
+    display: flex;
+    justify-content: center;
+}
+.social-links figure{
+   margin: 3%; 
+}
+.social-links img{
+    margin: 0%;
+}
+.itw{
+    background-color: rgb(226, 226, 226);
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#someofmywork{
+    margin-left: 5%;
+    font-size: 22px;
+     font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-decoration: dotted underline 3px;
+}
+.portfolio{
+    background-color: rgb(223, 181, 128);
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+#linktoportfolio{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.portfolio figure{
+    margin: 10px;
+    text-align: center;
+}
+.portfolio figcaption{
+    color: black;
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: 600;
+}
+
